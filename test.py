@@ -75,5 +75,5 @@
 # import
 
 import numpy
-numpy_list = [3, 1, 5, 1, 10, 209]
+numpy_list = [3, 1, 5, 1, 10, 209, 500]
 print(numpy.sum(numpy_list))
